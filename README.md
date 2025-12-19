@@ -15,7 +15,7 @@ I’m a Computer Science / AI-focused developer currently pursuing a Master’s-
 
 ## Research
 - Worked with an academic research group on **digital image processing** (graphics/vision/AI-related).
-- Co-authored a paper on deep-learning-based image recognition (details available on request).
+- Authored a paper on deep-learning-based image recognition
 
 ## Notes
 - Reach me at: junji.duan@outlook.com
