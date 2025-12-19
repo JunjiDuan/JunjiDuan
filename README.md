@@ -19,3 +19,4 @@ I’m a Computer Science / AI-focused developer currently pursuing a Master’s-
 
 ## Notes
 - Reach me at: junji.duan@outlook.com
+- More information on https://junjiduan.github.io/ 
