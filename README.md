@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Junji 👋
 
-<!--
-**JunjiDuan/JunjiDuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science / AI-focused developer currently pursuing a Master’s-level degree and building projects across **ML/CV**, **web apps**, and **software engineering**.
 
-Here are some ideas to get you started:
+## What I do
+- 🤖 Machine Learning & Deep Learning (model training, evaluation, tuning)
+- 👁️ Computer Vision (image processing, detection/recognition pipelines)
+- 🌐 Web Development (TypeScript/JavaScript, modern frontend frameworks)
+- 🧱 Databases (SQL design, indexing, query optimization)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+- **Languages:** Python, Java, C/C++, TypeScript/JavaScript  
+- **Frameworks/Tools:** Vue/React, Git, Linux, basic shell scripting  
+- **DB:** MySQL (core), MongoDB (basic)
+
+## Research
+- Worked with an academic research group on **digital image processing** (graphics/vision/AI-related).
+- Co-authored a paper on deep-learning-based image recognition (details available on request).
+
+## Notes
+- Reach me at: junji.duan@outlook.com
