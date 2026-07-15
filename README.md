@@ -1,22 +1,41 @@
-# Hi, I'm Junji 👋
+# 行歌_JD
 
-I’m a Computer Science / AI-focused developer currently pursuing a Master’s-level degree and building projects across **ML/CV**, **web apps**, and **software engineering**.
+Independent developer exploring thoughtful software, artificial intelligence, and digital experiences.
 
-## What I do
-- 🤖 Machine Learning & Deep Learning (model training, evaluation, tuning)
-- 👁️ Computer Vision (image processing, detection/recognition pipelines)
-- 🌐 Web Development (TypeScript/JavaScript, modern frontend frameworks)
-- 🧱 Databases (SQL design, indexing, query optimization)
+## About Me
 
-## Tech stack
-- **Languages:** Python, Java, C/C++, TypeScript/JavaScript  
-- **Frameworks/Tools:** Vue/React, Git, Linux, basic shell scripting  
-- **DB:** MySQL (core), MongoDB (basic)
+I am interested in building practical, adaptive, and user-focused software.
 
-## Research
-- Worked with an academic research group on **digital image processing** (graphics/vision/AI-related).
-- Authored a paper on deep-learning-based image recognition
+My current areas of interest include:
 
-## Notes
-- Reach me at: junji.duan@outlook.com
-- More information on https://junjiduan.github.io/ 
+- Android application development
+- Artificial intelligence
+- Open-source software
+- User interface and experience design
+
+## Interests
+
+- Reading
+- Music
+- Technology
+- Independent software development
+
+## Projects
+
+### Infinite Project
+
+An independent collection of applications, open-source tools, and digital experiments.
+
+Website coming soon:
+
+**infinite-project.top**
+
+### Infinite Reader
+
+A modern EPUB reader designed for Android phones, tablets, and foldable devices.
+
+Currently under development.
+
+---
+
+> Building thoughtful software without boundaries.
