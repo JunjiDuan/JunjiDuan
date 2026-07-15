@@ -27,6 +27,7 @@ My current areas of interest include:
 An independent collection of applications, open-source tools, and digital experiments.
 
 Website coming soon:
+https://JunjiDuan.github.io/infinite-project/
 
 **infinite-project.top**
 
