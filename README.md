@@ -1,42 +1,39 @@
-# 行歌_JD
+Computer Science graduate, Artificial Intelligence master's student, and independent developer building thoughtful software for real-world use.
 
-Independent developer exploring thoughtful software, artificial intelligence, and digital experiences.
+## Current Focus
 
-## About Me
+### [Infinite Project](https://infinite-project.top)
 
-I am interested in building practical, adaptive, and user-focused software.
+A growing collection of applications, open-source tools, and digital experiments focused on practical problems, adaptive design, and thoughtful user experiences.
 
-My current areas of interest include:
+**Featured project — [Infinite Reader](https://reader.infinite-project.top)**
 
-- Android application development
-- Artificial intelligence
-- Open-source software
-- User interface and experience design
+A modern EPUB reader for Android phones, tablets, and foldable devices, with dual-page reading, immersive layouts, and natural page-turn interactions.
 
-## Interests
+[Project Website](https://infinite-project.top) ·
+[Infinite Reader](https://reader.infinite-project.top) ·
+[Public Demo](https://github.com/JunjiDuan/infinite-reader-demo)
 
-- Reading
-- Music
-- Technology
-- Independent software development
+## Education
 
-## Projects
+**The University of New South Wales**  
+Master of Information Technology — Artificial Intelligence  
+2025–Present
 
-### Infinite Project
+**McGill University**  
+Bachelor of Science — Computer Science  
+2020–2025
 
-An independent collection of applications, open-source tools, and digital experiments.
+## Research & Publication
 
-Website coming soon:
-https://JunjiDuan.github.io/infinite-project/
+Research interests include artificial intelligence, computer vision, computational imaging, recommendation systems, and human–computer interaction.
 
-**infinite-project.top**
+**Research on Image Recognition and Processing Application Technology of Unmanned Vehicle Based on Deep Learning**
 
-### Infinite Reader
+*Applied and Computational Engineering*, Vol. 93, pp. 191–197, 2024.
 
-A modern EPUB reader designed for Android phones, tablets, and foldable devices.
-
-Currently under development.
+[DOI: 10.54254/2755-2721/93/20240986](https://doi.org/10.54254/2755-2721/93/20240986)
 
 ---
 
-> Building thoughtful software without boundaries.
+Building thoughtful software without boundaries.
