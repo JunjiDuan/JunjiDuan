@@ -4,19 +4,23 @@ Computer Science graduate, Artificial Intelligence master's student, and indepen
 
 ### [Infinite Project](https://infinite-project.top)
 
-A growing collection of applications, open-source tools, and digital experiments focused on practical problems, adaptive design, and thoughtful user experiences.
+An independent collection of applications, open-source tools, and digital experiments focused on practical problems, adaptive design, and thoughtful user experiences.
 
-**Featured project — [Infinite Reader](https://reader.infinite-project.top)**
+#### [Infinite Reader](https://reader.infinite-project.top)
 
-A modern EPUB reader for Android phones, tablets, and foldable devices, with dual-page reading, immersive layouts, and natural page-turn interactions.
+A modern EPUB reader for Android phones, tablets, and foldable devices, featuring dual-page reading, immersive layouts, and natural page-turn interactions.
+
+#### More to Come
+
+New applications, tools, and experiments are currently being explored as part of the Infinite Project.
 
 ## Education
 
-**The University of New South Wales, [Australia,NSW,Sydney]**  
+**The University of New South Wales** — Sydney, NSW, Australia  
 Master of Information Technology — Artificial Intelligence  
 2025–Present
 
-**McGill University, [Canada,QC,Montreal]**  
+**McGill University** — Montréal, Québec, Canada  
 Bachelor of Science — Computer Science  
 2020–2025
 
