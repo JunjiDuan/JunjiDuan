@@ -16,11 +16,11 @@ A modern EPUB reader for Android phones, tablets, and foldable devices, with dua
 
 ## Education
 
-**The University of New South Wales**  
+**The University of New South Wales, Australia,NSW,Sydney**  
 Master of Information Technology — Artificial Intelligence  
 2025–Present
 
-**McGill University**  
+**McGill University, Canada,QC,Montreal**  
 Bachelor of Science — Computer Science  
 2020–2025
 
