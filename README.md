@@ -10,10 +10,6 @@ A growing collection of applications, open-source tools, and digital experiments
 
 A modern EPUB reader for Android phones, tablets, and foldable devices, with dual-page reading, immersive layouts, and natural page-turn interactions.
 
-[Project Website](https://infinite-project.top) ·
-[Infinite Reader](https://reader.infinite-project.top) ·
-[Public Demo](https://github.com/JunjiDuan/infinite-reader-demo)
-
 ## Education
 
 **The University of New South Wales, [Australia,NSW,Sydney]**  
