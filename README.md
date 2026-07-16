@@ -10,7 +10,9 @@ An independent collection of applications, open-source tools, and digital experi
 
 A modern EPUB reader for Android phones, tablets, and foldable devices, featuring dual-page reading, immersive layouts, and natural page-turn interactions.
 
-#### Infinite Browser ？ 《- Being designed
+#### [Infinite Voyager](https://infinite-project.top/voyager/)
+
+A cross-platform browser built to spark infinite possibility as you explore the web.
 
 #### Infinite Weather ？ 《- Being designed
 
