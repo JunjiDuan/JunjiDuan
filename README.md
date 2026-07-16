@@ -10,6 +10,8 @@ An independent collection of applications, open-source tools, and digital experi
 
 A modern EPUB reader for Android phones, tablets, and foldable devices, featuring dual-page reading, immersive layouts, and natural page-turn interactions.
 
+#### Infinite Browser ？ 《- Being designed
+
 #### Infinite Weather ？ 《- Being designed
 
 #### More to Come
