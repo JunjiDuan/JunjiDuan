@@ -14,7 +14,7 @@ A modern EPUB reader for Android phones, tablets, and foldable devices, featurin
 
 A cross-platform browser built to spark infinite possibility as you explore the web.
 
-#### Infinite Weather ？ 《- Being designed
+#### Infinite Weather <- Being designed
 
 #### More to Come
 
