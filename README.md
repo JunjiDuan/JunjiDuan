@@ -6,7 +6,7 @@ Computer Science graduate, Artificial Intelligence master's student, and indepen
 
 An independent collection of applications, open-source tools, and digital experiments focused on practical problems, adaptive design, and thoughtful user experiences.
 
-#### [Infinite Reader](https://reader.infinite-project.top)
+#### [Infinite Reader](https://infinite-project.top/reader/)
 
 A modern EPUB reader for Android phones, tablets, and foldable devices, featuring dual-page reading, immersive layouts, and natural page-turn interactions.
 
