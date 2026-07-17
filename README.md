@@ -1,4 +1,4 @@
-Computer Science graduate, Artificial Intelligence master's student, and independent developer building thoughtful software for real-world use.
+Computer Science graduate, master’s student specializing in Artificial Intelligence, and independent developer building thoughtful software for real-world applications. [About ME]()
 
 ## Current Focus
 
