@@ -1,6 +1,6 @@
 <div align="center">
 
-[English](./README.en.md) | **简体中文**
+[English Version](./README.en.md) | **简体中文**
 
 # 行歌 · JD
 
