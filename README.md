@@ -1,26 +1,28 @@
-Computer Science graduate, master’s student specializing in Artificial Intelligence, and independent developer building thoughtful software for real-world applications. [About ME](JunjiDuan.github.io)
+[简体中文](./README.md) | [English](./README.en.md)
 
-## Current Focus
+Computer Science 专业毕业生、Artificial Intelligence 方向硕士研究生，同时也是一名独立开发者，致力于构建服务现实需求、经过用心设计的软件。[关于我](https://JunjiDuan.github.io)
+
+## 当前方向
 
 ### [Infinite Project](https://infinite-project.top)
 
-An independent collection of applications, open-source tools, and digital experiments focused on practical problems, adaptive design, and thoughtful user experiences.
+一个独立开发的应用程序、开源工具与数字实验集合，专注于解决实际问题、实现自适应设计，并打造经过深思熟虑的用户体验。
 
 #### [Infinite Reader](https://infinite-project.top/reader/)
 
-A modern EPUB reader for Android phones, tablets, and foldable devices, featuring dual-page reading, immersive layouts, and natural page-turn interactions.
+一款面向 Android 手机、平板电脑和折叠屏设备的现代 EPUB 阅读器，支持双页阅读、沉浸式布局与自然的翻页交互。
 
 #### [Infinite Voyager](https://infinite-project.top/voyager/)
 
-A cross-platform browser built to spark infinite possibility as you explore the web.
+一款跨平台浏览器，旨在让每一次网络探索都激发无限可能。
 
-#### Infinite Weather <- Being designed
+#### Infinite Weather（设计中）
 
-#### More to Come
+#### 更多项目即将到来
 
-New applications, tools, and experiments are currently being explored as part of the Infinite Project.
+作为 Infinite Project 的一部分，更多新的应用程序、工具与实验正在探索和构思中。
 
-## Education
+## 教育经历
 
 **The University of New South Wales** — Sydney, NSW, Australia  
 Master of Information Technology — Artificial Intelligence  
@@ -30,9 +32,9 @@ Master of Information Technology — Artificial Intelligence
 Bachelor of Science — Computer Science  
 2020–2025
 
-## Research & Publication
+## 研究与论文
 
-Research interests include artificial intelligence, computer vision, computational imaging, recommendation systems, and human–computer interaction.
+研究兴趣包括人工智能、计算机视觉、计算成像、推荐系统与人机交互。
 
 **Research on Image Recognition and Processing Application Technology of Unmanned Vehicle Based on Deep Learning**
 
@@ -42,4 +44,4 @@ Research interests include artificial intelligence, computer vision, computation
 
 ---
 
-Building thoughtful software without boundaries.
+用心构建，不设边界。
