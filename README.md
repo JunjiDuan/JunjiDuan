@@ -32,7 +32,7 @@ Master of Information Technology — Artificial Intelligence
 Bachelor of Science — Computer Science  
 2020–2025
 
-## 研究与论文
+## 研究与实践
 
 研究兴趣包括人工智能、计算机视觉、计算成像、推荐系统与人机交互。
 
