@@ -1,6 +1,6 @@
 [English](./README.en.md) | [简体中文](./README.md) 
 
-Computer Science 专业毕业生、Artificial Intelligence 方向硕士研究生，同时也是一名独立开发者，致力于构建服务现实需求、经过用心设计的软件。[关于我](https://JunjiDuan.github.io)
+计算机科学专业本科毕业、人工智能方向硕士在读中，同时也是一名独立开发者，致力于构建服务现实需求、经过用心设计的软件。[关于我](https://JunjiDuan.github.io)
 
 ## 当前方向
 
