@@ -1,4 +1,4 @@
-[简体中文](./README.md) | [English](./README.en.md)
+[English](./README.en.md) | [简体中文](./README.md) 
 
 Computer Science 专业毕业生、Artificial Intelligence 方向硕士研究生，同时也是一名独立开发者，致力于构建服务现实需求、经过用心设计的软件。[关于我](https://JunjiDuan.github.io)
 
