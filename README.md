@@ -1,4 +1,4 @@
-Computer Science graduate, master’s student specializing in Artificial Intelligence, and independent developer building thoughtful software for real-world applications. [About ME]()
+Computer Science graduate, master’s student specializing in Artificial Intelligence, and independent developer building thoughtful software for real-world applications. [About ME](JunjiDuan.github.io)
 
 ## Current Focus
 
