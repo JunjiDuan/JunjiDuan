@@ -1,13 +1,13 @@
 <div align="center">
 
-[English Version🖱️↖](./README.en.md) | **简体中文**
+[English Version 🖱️↖](./README.en.md) | **简体中文**
 
 # 行歌 · JD
 
 计算机科学专业本科毕业、人工智能方向硕士在读中，同时也是一名独立开发者。
 致力于构建服务现实需求、经过用心设计的软件。
 
-[我的另一面 🔭](https://JunjiDuan.github.io)
+[我的另一面 🔍︎↖](https://JunjiDuan.github.io)
 
 </div>
 
@@ -15,26 +15,26 @@
 
 ## 现在进行时
 
-### [Infinite Project🖱️↖](https://infinite-project.top)
+### [Infinite Project 🖱️↖](https://infinite-project.top)
 
 Infinite Project 不只是一组软件，更代表一种对生活的态度：**简约、美观、高效**。
 
 它关注日常生活中的真实需求，从阅读、浏览、天气，到更多尚未被重新思考的使用场景。通过克制的设计、自然的交互与可靠的功能，让技术更安静、更顺畅地融入生活。
 
-**当前包含：** [Infinite Reader🖱️↖](https://infinite-project.top/reader/) · [Infinite Voyager🖱️↖](https://infinite-project.top/voyager/) · Infinite Weather `设计中` 
+**当前包含：** [Infinite Reader 🖱️↖](https://infinite-project.top/reader/) · [Infinite Voyager🖱️↖](https://infinite-project.top/voyager/) · Infinite Weather `设计中` 
 · 更多项目即将到来
 
 ---
 
 ## 教育经历
 
-### The University of New South Wales
+### [The University of New South Wales](https://www.unsw.edu.au/)
 
 **Master of Information Technology — Artificial Intelligence**
 Sydney, NSW, Australia
 2025–Present
 
-### McGill University
+### [McGill University](https://www.mcgill.ca/)
 
 **Bachelor of Science — Computer Science**
 Montréal, Québec, Canada
@@ -55,7 +55,7 @@ Montréal, Québec, Canada
 *Applied and Computational Engineering*
 Vol. 93, pp. 191–197, 2024
 
-[DOI: 10.54254/2755-2721/93/20240986🖱️↖](https://doi.org/10.54254/2755-2721/93/20240986)
+[DOI: 10.54254/2755-2721/93/20240986 🖱️↖](https://doi.org/10.54254/2755-2721/93/20240986)
 
 ---
 
