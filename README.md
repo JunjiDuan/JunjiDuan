@@ -19,7 +19,7 @@
 
 ### [Infinite Project](https://infinite-project.top)
 
-一个独立开发的应用程序、开源工具与数字实验集合，专注于解决实际问题、实现自适应设计，并打造经过深思熟虑的用户体验。
+Infinite Project 不只是一组软件，更代表一种对生活的态度：简约、美观、高效。它关注日常生活中的真实需求，从阅读、浏览、天气到更多尚未被重新思考的使用场景，通过克制的设计、自然的交互与可靠的功能，让技术更安静、更顺畅地融入生活。
 
 ### [Infinite Reader](https://infinite-project.top/reader/)
 
