@@ -2,7 +2,7 @@
 
 计算机科学专业本科毕业、人工智能方向硕士在读中，同时也是一名独立开发者，致力于构建服务现实需求、经过用心设计的软件。[我的另一面](https://JunjiDuan.github.io)
 
-## 当前方向
+## 现在进行时
 
 ### [Infinite Project](https://infinite-project.top)
 
