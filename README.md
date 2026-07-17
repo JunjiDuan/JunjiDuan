@@ -19,30 +19,11 @@
 
 ### [Infinite Project](https://infinite-project.top)
 
-Infinite Project 不只是一组软件，更代表一种对生活的态度：简约、美观、高效。它关注日常生活中的真实需求，从阅读、浏览、天气到更多尚未被重新思考的使用场景，通过克制的设计、自然的交互与可靠的功能，让技术更安静、更顺畅地融入生活。
+Infinite Project 不只是一组软件，更代表一种对生活的态度：**简约、美观、高效**。
 
-### [Infinite Reader](https://infinite-project.top/reader/)
+它关注日常生活中的真实需求，从阅读、浏览、天气，到更多尚未被重新思考的使用场景。通过克制的设计、自然的交互与可靠的功能，让技术更安静、更顺畅地融入生活。
 
-一款面向 Android 手机、平板电脑和折叠屏设备的现代 EPUB 阅读器，支持：
-
-* 双页阅读
-* 沉浸式布局
-* 自然的翻页交互
-* 针对不同屏幕形态的自适应设计
-
-### [Infinite Voyager](https://infinite-project.top/voyager/)
-
-一款跨平台浏览器，旨在让每一次网络探索都激发无限可能。
-
-### Infinite Weather
-
-`设计中`
-
-一款正在设计中的自适应天气应用。
-
-### 更多项目即将到来
-
-作为 Infinite Project 的一部分，更多新的应用程序、工具与实验正在探索和构思中。
+**当前项目：** [Infinite Reader](https://infinite-project.top/reader/) · [Infinite Voyager](https://infinite-project.top/voyager/) · Infinite Weather `设计中` · 更多项目即将到来
 
 ---
 
