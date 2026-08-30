@@ -1,4 +1,4 @@
-[简体中文 🖱️↖](https://github.com/JunjiDuan/JunjiDuan/blob/main/README.md) | **English**
+[简体中文 🖱️↖](https://github.com/JunjiDuan/JunjiDuan/blob/main/README_cn.md) | **English**
 
 Computer Science graduate and Master's student specializing in Artificial Intelligence, as well as an independent developer.  
 Dedicated to building thoughtfully designed software that addresses real-world needs.
