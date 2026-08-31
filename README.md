@@ -9,6 +9,8 @@ Dedicated to building thoughtfully designed software that addresses real-world n
 
 ## Currently Working On
 
+### [No Man's Sky Navigator 🖱️↖](https://cognira-studio.github.io/)
+
 ### [Infinite Project 🖱️↖](https://infinite-project.top)
 
 Infinite Project is more than a collection of software — it represents an approach to life centered on **simplicity, aesthetics, and efficiency**.
@@ -21,8 +23,6 @@ It focuses on real needs in everyday life, from reading, browsing, and weather t
 ### [Helix 🖱️↖](https://lysis-xd.github.io/)
 
 An evidence-based application designed to support people through difficult moments. It is both a mood journal that remembers the small lights in your life and a source of gentle, scientifically grounded exercises and support when darker moments arrive.
-
-### [Cognira 🖱️↖](https://cognira-studio.github.io/)
 
 ---
 
