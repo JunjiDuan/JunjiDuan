@@ -13,9 +13,9 @@ Dedicated to building thoughtfully designed software that addresses real-world n
 
 Infinite Project is more than a collection of software — it represents an approach to life centered on **simplicity, aesthetics, and efficiency**.
 
-It focuses on real needs in everyday life, from reading, browsing, and weather to many more experiences that have yet to be reimagined. Through restrained design, natural interactions, and reliable functionality, it aims to let technology blend into daily life more quietly and seamlessly.
+It focuses on real needs in everyday life, from reading, to many more experiences that have yet to be reimagined. Through restrained design, natural interactions, and reliable functionality, it aims to let technology blend into daily life more quietly and seamlessly.
 
-**Current projects:** [Infinite Reader 🖱️↖](https://infinite-project.top/reader/) · [Infinite Voyager 🖱️↖](https://infinite-project.top/voyager/) · Infinite Weather `In Design`
+**Current projects:** [Infinite Reader 🖱️↖](https://infinite-project.top/reader/)
 · More projects coming soon ✎𓂃
 
 ### [No Man's Sky Navigator 🖱️↖](https://cognira-studio.github.io/)
