@@ -9,7 +9,7 @@ Dedicated to building thoughtfully designed software that addresses real-world n
 
 ## Currently Working On
 
-### [Infinite Project 🖱️↖](https://infinite-project.top)
+### Infinite Project
 
 Infinite Project is more than a collection of software — it represents an approach to life centered on **simplicity, aesthetics, and efficiency**.
 
