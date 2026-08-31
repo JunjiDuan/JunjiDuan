@@ -9,8 +9,6 @@ Dedicated to building thoughtfully designed software that addresses real-world n
 
 ## Currently Working On
 
-### [No Man's Sky Navigator 🖱️↖](https://cognira-studio.github.io/)
-
 ### [Infinite Project 🖱️↖](https://infinite-project.top)
 
 Infinite Project is more than a collection of software — it represents an approach to life centered on **simplicity, aesthetics, and efficiency**.
@@ -19,6 +17,8 @@ It focuses on real needs in everyday life, from reading, browsing, and weather t
 
 **Current projects:** [Infinite Reader 🖱️↖](https://infinite-project.top/reader/) · [Infinite Voyager 🖱️↖](https://infinite-project.top/voyager/) · Infinite Weather `In Design`
 · More projects coming soon ✎𓂃
+
+### [No Man's Sky Navigator 🖱️↖](https://cognira-studio.github.io/)
 
 ### [Helix 🖱️↖](https://lysis-xd.github.io/)
 
