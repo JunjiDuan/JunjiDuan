@@ -18,7 +18,9 @@ It focuses on real needs in everyday life, from reading, to many more experience
 **Current projects:** [Infinite Reader 🖱️↖](https://infinite-project.top/reader/)
 · More projects coming soon ✎𓂃
 
-### [No Man's Sky Navigator 🖱️↖](https://cognira-studio.github.io/)
+### [No Man's Sky Navigator 🖱️↖](https://nms-guide-web.junji-duan.workers.dev/)
+
+A companion app for No Man's Sky players who want to keep track of what they find. Save ships and paradise planets with portal glyphs, coordinates, and notes; look up game information and step-by-step guides offline; and share discoveries with other travelers when you want to.
 
 ### [Helix 🖱️↖](https://lysis-xd.github.io/)
 
