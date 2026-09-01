@@ -22,7 +22,7 @@ It focuses on real needs in everyday life, from reading, to many more experience
 
 A companion app for No Man's Sky players who want to keep track of what they find. Save ships and paradise planets with portal glyphs, coordinates, and notes; look up game information and step-by-step guides offline; and share discoveries with other travelers when you want to.
 
-### [Helix 🖱️↖](helix-web.junji-duan.workers.dev)
+### [Helix 🖱️↖](https://helix-web.junji-duan.workers.dev/)
 
 An evidence-based application designed to support people through difficult moments. It is both a mood journal that remembers the small lights in your life and a source of gentle, scientifically grounded exercises and support when darker moments arrive.
 
