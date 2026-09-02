@@ -9,7 +9,7 @@ Dedicated to building thoughtfully designed software that addresses real-world n
 
 ## Currently Working On
 
-[Infinite Reader 🖱️↖](https://infinite-project.top/reader/)
+### [Infinite Reader 🖱️↖](https://infinite-project.top/reader/)
 
 A focused reading app designed for people who want their digital library to feel simple, personal, and distraction-free. Read EPUB, TXT, and PDF files across Android phones, tablets, and foldable devices; organize books your way, keep notes and reading progress, and optionally sync your library across devices while remaining fully usable offline.
 
