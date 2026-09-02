@@ -9,14 +9,9 @@ Dedicated to building thoughtfully designed software that addresses real-world n
 
 ## Currently Working On
 
-### Infinite Project
+[Infinite Reader 🖱️↖](https://infinite-project.top/reader/)
 
-Infinite Project is more than a collection of software — it represents an approach to life centered on **simplicity, aesthetics, and efficiency**.
-
-It focuses on real needs in everyday life, from reading, to many more experiences that have yet to be reimagined. Through restrained design, natural interactions, and reliable functionality, it aims to let technology blend into daily life more quietly and seamlessly.
-
-**Current projects:** [Infinite Reader 🖱️↖](https://infinite-project.top/reader/)
-· More projects coming soon ✎𓂃
+A focused reading app designed for people who want their digital library to feel simple, personal, and distraction-free. Read EPUB, TXT, and PDF files across Android phones, tablets, and foldable devices; organize books your way, keep notes and reading progress, and optionally sync your library across devices while remaining fully usable offline.
 
 ### [No Man's Sky Navigator 🖱️↖](https://nms-guide-web.junji-duan.workers.dev/)
 
