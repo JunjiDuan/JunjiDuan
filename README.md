@@ -3,7 +3,7 @@
 Computer Science graduate and Master's student specializing in Artificial Intelligence, as well as an independent developer.  
 Dedicated to building thoughtfully designed software that addresses real-world needs.
 
-[Another Side of Me 🔍︎↖](https://JunjiDuan.github.io)
+[My personal website 🔍︎↖](https://captainjd.top/)
 
 ---
 
