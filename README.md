@@ -13,7 +13,7 @@ Dedicated to building thoughtfully designed software that addresses real-world n
 
 A focused reading app designed for people who want their digital library to feel simple, personal, and distraction-free. Read EPUB, TXT, and PDF files across Android phones, tablets, and foldable devices; organize books your way, keep notes and reading progress, and optionally sync your library across devices while remaining fully usable offline.
 
-### [Infinite Studio 🖱️↖](https://github.com/JunjiDuan/infinite-studio)
+### [Infinite Studio 🖱️↖](https://infinite-project.top/studio/)
 
 A minimal desktop IDE for people who want a calm, personal place to write code with AI by their side. Work with Claude Code, Codex, Kimi Code, or DeepSeek Harness in a built-in chat panel. Write, run, and debug Python, Java, and C/C++, manage Git with a visual commit graph, and preview PDF, Word, Excel, and PowerPoint files without leaving the editor. Everything runs locally, with no telemetry; only what you choose to send to an AI assistant leaves your machine.
 
