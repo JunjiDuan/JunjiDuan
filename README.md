@@ -13,9 +13,9 @@ Dedicated to building thoughtfully designed software that addresses real-world n
 
 A focused reading app designed for people who want their digital library to feel simple, personal, and distraction-free. Read EPUB, TXT, and PDF files across Android phones, tablets, and foldable devices; organize books your way, keep notes and reading progress, and optionally sync your library across devices while remaining fully usable offline.
 
-### [No Man's Sky Navigator 🖱️↖](https://nms-guide-web.junji-duan.workers.dev/)
+### [Infinite Studio 🖱️↖](https://github.com/JunjiDuan/infinite-studio)
 
-A companion app for No Man's Sky players who want to keep track of what they find. Save ships and paradise planets with portal glyphs, coordinates, and notes; look up game information and step-by-step guides offline; and share discoveries with other travelers when you want to.
+A minimal desktop IDE for people who want a calm, personal place to write code with AI by their side. Work with Claude Code, Codex, Kimi Code, or DeepSeek Harness in a built-in chat panel. Write, run, and debug Python, Java, and C/C++, manage Git with a visual commit graph, and preview PDF, Word, Excel, and PowerPoint files without leaving the editor. Everything runs locally, with no telemetry; only what you choose to send to an AI assistant leaves your machine.
 
 ### [Helix 🖱️↖](https://helix-web.junji-duan.workers.dev/)
 
