@@ -22,6 +22,8 @@
 计算机科学本科毕业，人工智能方向硕士在读，同时是一名独立开发者。
 我在意实用、易用、注重细节的产品——希望做出**安静、私人、真正解决现实需求**的软件。
 
+🌐 **我的个人网站 → [captainjd.top](https://captainjd.top/)** —— 旅行地图、手记随笔、读书、音乐、游戏，以及我正在做的一切。
+
 <br>
 
 ## 01 — 正在开发
@@ -68,19 +70,23 @@
 
 <table>
   <tr>
-    <td width="132" valign="top"><sub><b>2025 — 至今</b></sub></td>
+    <td width="132" align="center" valign="top">
+      <a href="https://www.unsw.edu.au/"><img src="assets/unsw.png" width="80" alt="新南威尔士大学校徽"></a>
+    </td>
     <td valign="top">
+      <sub><b>2025 — 至今</b> · 澳大利亚 · 新南威尔士州 · 悉尼</sub><br>
       <a href="https://www.unsw.edu.au/"><b>新南威尔士大学</b></a> <sub>UNSW Sydney</sub><br>
-      信息技术硕士 — <b>人工智能方向</b><br>
-      <sub>澳大利亚 · 新南威尔士州 · 悉尼</sub>
+      信息技术硕士 — <b>人工智能方向</b>
     </td>
   </tr>
   <tr>
-    <td width="132" valign="top"><sub><b>2020 — 2025</b></sub></td>
+    <td width="132" align="center" valign="top">
+      <a href="https://www.mcgill.ca/"><img src="assets/mcgill.png" width="80" alt="麦吉尔大学校徽"></a>
+    </td>
     <td valign="top">
+      <sub><b>2020 — 2025</b> · 加拿大 · 魁北克省 · 蒙特利尔</sub><br>
       <a href="https://www.mcgill.ca/"><b>麦吉尔大学</b></a> <sub>McGill University</sub><br>
-      理学学士 — <b>计算机科学</b><br>
-      <sub>加拿大 · 魁北克省 · 蒙特利尔</sub>
+      理学学士 — <b>计算机科学</b>
     </td>
   </tr>
 </table>

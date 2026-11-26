@@ -22,6 +22,8 @@
 I'm a Computer Science graduate, a Master's student in Artificial Intelligence, and an independent developer.
 I care about useful, easy-to-use products with attention to detail — software that is **calm, personal, and built for real-world needs**.
 
+🌐 **My personal website → [captainjd.top](https://captainjd.top/)** — travel map, logbook, reading list, music, games, and everything I'm working on.
+
 <br>
 
 ## 01 — Currently Building
@@ -68,19 +70,23 @@ I care about useful, easy-to-use products with attention to detail — software 
 
 <table>
   <tr>
-    <td width="132" valign="top"><sub><b>2025 — NOW</b></sub></td>
+    <td width="132" align="center" valign="top">
+      <a href="https://www.unsw.edu.au/"><img src="assets/unsw.png" width="80" alt="UNSW Sydney crest"></a>
+    </td>
     <td valign="top">
+      <sub><b>2025 — NOW</b> · SYDNEY, NSW, AUSTRALIA</sub><br>
       <a href="https://www.unsw.edu.au/"><b>The University of New South Wales</b></a><br>
-      Master of Information Technology — <b>Artificial Intelligence</b><br>
-      <sub>Sydney, NSW, Australia</sub>
+      Master of Information Technology — <b>Artificial Intelligence</b>
     </td>
   </tr>
   <tr>
-    <td width="132" valign="top"><sub><b>2020 — 2025</b></sub></td>
+    <td width="132" align="center" valign="top">
+      <a href="https://www.mcgill.ca/"><img src="assets/mcgill.png" width="80" alt="McGill University crest"></a>
+    </td>
     <td valign="top">
+      <sub><b>2020 — 2025</b> · MONTRÉAL, QUÉBEC, CANADA</sub><br>
       <a href="https://www.mcgill.ca/"><b>McGill University</b></a><br>
-      Bachelor of Science — <b>Computer Science</b><br>
-      <sub>Montréal, Québec, Canada</sub>
+      Bachelor of Science — <b>Computer Science</b>
     </td>
   </tr>
 </table>
