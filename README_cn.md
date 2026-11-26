@@ -108,8 +108,8 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,py,js,kotlin,swift,nextjs,svelte,electron,tailwind,postgres,supabase,docker,git&theme=dark&perline=13">
-    <img alt="TypeScript, Python, JavaScript, Kotlin, Swift, Next.js, SvelteKit, Electron, Tailwind CSS, PostgreSQL, Supabase, Docker, Git" src="https://skillicons.dev/icons?i=ts,py,js,kotlin,swift,nextjs,svelte,electron,tailwind,postgres,supabase,docker,git&theme=light&perline=13">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cpy%2Cjs%2Ckotlin%2Cswift%2Cnextjs%2Csvelte%2Celectron%2Ctailwind%2Cpostgres%2Csupabase%2Cdocker%2Cgit&theme=dark&perline=13">
+    <img alt="TypeScript, Python, JavaScript, Kotlin, Swift, Next.js, SvelteKit, Electron, Tailwind CSS, PostgreSQL, Supabase, Docker, Git" src="https://skillicons.dev/icons?i=ts%2Cpy%2Cjs%2Ckotlin%2Cswift%2Cnextjs%2Csvelte%2Celectron%2Ctailwind%2Cpostgres%2Csupabase%2Cdocker%2Cgit&theme=light&perline=13">
   </picture>
 </p>
 
