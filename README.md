@@ -30,7 +30,7 @@ I care about useful, easy-to-use products with attention to detail — software 
 
 <table>
   <tr>
-    <td width="132" align="center" valign="top">
+    <td width="132" align="center" valign="middle">
       <a href="https://infinite-project.top/reader/"><img src="assets/reader.png" width="96" alt="Infinite Reader"></a>
     </td>
     <td valign="top">
@@ -41,7 +41,7 @@ I care about useful, easy-to-use products with attention to detail — software 
     </td>
   </tr>
   <tr>
-    <td width="132" align="center" valign="top">
+    <td width="132" align="center" valign="middle">
       <a href="https://infinite-project.top/studio/"><img src="assets/studio.png" width="96" alt="Infinite Studio"></a>
     </td>
     <td valign="top">
@@ -52,7 +52,7 @@ I care about useful, easy-to-use products with attention to detail — software 
     </td>
   </tr>
   <tr>
-    <td width="132" align="center" valign="top">
+    <td width="132" align="center" valign="middle">
       <a href="https://helix-web.junji-duan.workers.dev/"><img src="assets/helix.png" width="96" alt="Helix"></a>
     </td>
     <td valign="top">
@@ -70,7 +70,7 @@ I care about useful, easy-to-use products with attention to detail — software 
 
 <table>
   <tr>
-    <td width="132" align="center" valign="top">
+    <td width="132" align="center" valign="middle">
       <a href="https://www.unsw.edu.au/"><img src="assets/unsw.png" width="80" alt="UNSW Sydney crest"></a>
     </td>
     <td valign="top">
@@ -80,7 +80,7 @@ I care about useful, easy-to-use products with attention to detail — software 
     </td>
   </tr>
   <tr>
-    <td width="132" align="center" valign="top">
+    <td width="132" align="center" valign="middle">
       <a href="https://www.mcgill.ca/"><img src="assets/mcgill.png" width="80" alt="McGill University crest"></a>
     </td>
     <td valign="top">
