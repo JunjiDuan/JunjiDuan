@@ -23,6 +23,8 @@
     .draw { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: draw 2.4s cubic-bezier(.5,0,.2,1) .2s forwards; }
     @keyframes draw { to { stroke-dashoffset: 0; } }
     .blink { animation: blink 1.6s steps(1) infinite; }
+    @keyframes nudge { 0%,60%,100% { translate: 0 0; } 75% { translate: 3px -3px; } }
+    .nudge path { animation: nudge 2.4s ease-in-out 1.5s infinite; }
     @keyframes blink { 50% { opacity: 0; } }
     @media (prefers-reduced-motion: reduce) { .rise, .draw { animation: none; opacity: 1; stroke-dashoffset: 0; } }
   </style>
@@ -52,9 +54,12 @@
       <text class="sans rise d2" y="164" font-size="60" font-weight="700" fill="#1b1b19" letter-spacing="-1.6">Junji Duan</text>
       <text class="sans rise d3" y="218" font-size="30" font-weight="600" fill="#1b1b19" letter-spacing="-0.5">Building thoughtful software <tspan fill="#6262c7">for real life.</tspan></text>
       <text class="sans rise d4" y="262" font-size="17" fill="#55554f">CS graduate · AI master’s student · Independent developer</text>
-      <g transform="translate(0 302)"><g class="rise d4">
-        <rect width="8" height="8" rx="4" y="-8" fill="#2f8f5b"/>
-        <text class="mono" x="18" y="0" font-size="12" fill="#8a8a84" letter-spacing="1.6">STATUS: ONLINE · BASED ON EARTH</text>
+      <g transform="translate(0 288)"><g class="rise d4">
+        <rect width="372" height="42" rx="21" fill="#6262c7"/>
+        <text class="mono" x="24" y="26" font-size="13" font-weight="700" fill="#ffffff" letter-spacing="1.4">VISIT MY WEBSITE · CAPTAINJD.TOP</text>
+        <g class="nudge" transform="translate(338 21)"><path d="M-5 5 L5 -5 M-3 -5 H5 V3" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+        <rect x="396" y="17" width="8" height="8" rx="4" fill="#2f8f5b"/>
+        <text class="mono" x="414" y="25" font-size="12" fill="#8a8a84" letter-spacing="1.6">ONLINE</text>
       </g></g>
     </g>
     <rect x="0.5" y="0.5" width="1199" height="379" rx="22" fill="none" stroke="#dfdfda"/>
