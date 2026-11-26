@@ -22,7 +22,7 @@
 I'm a Computer Science graduate, a Master's student in Artificial Intelligence, and an independent developer.
 I care about useful, easy-to-use products with attention to detail — software that is **calm, personal, and built for real-world needs**.
 
-🌐 **My personal website → [captainjd.top](https://captainjd.top/)** — travel map, logbook, reading list, music, games, and everything I'm working on.
+🌐 **[My personal website](https://captainjd.top/)** — travel map, logbook, reading list, music, games, and everything I'm working on.
 
 <br>
 
